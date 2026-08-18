@@ -1,0 +1,4 @@
+source,n,rf_accuracy,trivial_accuracy
+genuine,869,0.993,0.99
+social_spambot_1,231,0.931,0.913
+traditional_spambot_1,267,0.974,0.914
